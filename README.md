@@ -11,7 +11,7 @@ aliyun-update-oss
 http://mirrors.aliyun.com/opensuse/update/leap/15.2/oss/  
 packman  
 http://mirrors.aliyun.com/packman/openSUSE_Leap_15.2/  
-home:frank_kunz  
+home:frank_kunz For GCC  
 https://download.opensuse.org/repositories/home:/frank_kunz/openSUSE_Leap_15.2/  
 
 
